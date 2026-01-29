@@ -1,6 +1,6 @@
 # Abhijeet Shitole Portfolio
 
-![Abhijeet Shitole Portfolio](resume-screenshot.jpg?raw=true 'Abhijeet Shitole Portfolio')
+![Abhijeet Shitole Portfolio](resume-screenshot.png?raw=true 'Abhijeet Shitole Portfolio')
 
 <div align="center">
 
